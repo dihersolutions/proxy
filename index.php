@@ -1,4 +1,4 @@
-<?PHP
+<?php
 
 $backend_url = "https://www.google.com";
 $backend_info = parse_url($backend_url);
