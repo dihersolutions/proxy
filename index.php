@@ -1,6 +1,6 @@
 <?php
 
-$backend_url = "https://www.google.com";
+$backend_url = "https://www.google.ie";
 $backend_info = parse_url($backend_url);
 $host = $_SERVER['HTTP_HOST'];
 $request_uri = $_SERVER['REQUEST_URI'];
