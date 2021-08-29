@@ -1,0 +1,7 @@
+[[buildpacks]]
+  uri = "docker://gcr.io/paketo-buildpacks/httpd:0.1.1"
+  version = "0.1.1"
+
+[[buildpacks]]
+  uri = "docker://gcr.io/paketo-buildpacks/php:0.5.2"
+  version = "0.5.2"
